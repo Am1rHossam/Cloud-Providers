@@ -1,0 +1,43 @@
+-Search for the common cloud providers:
+1-  Amazon Web Service
+2-  Google Cloud Platform
+3-  Microsoft Azure
+4-  Digital Ocean
+5-  IBM Cloud
+
+
+-The use case for each of them:-
+for AWS:
+	providing great speed and agility,easy to use, security and reliability helps maintain data privacy and secures the infrastructure
+and the payment only for what you use , nothing more
+
+for GCP:
+	The security level is high, also it comes with economic viability , GCP comes at a lower cost than the others, this makes it affordable
+for the startups and small businesses.
+for Microsoft Azure:
+	Azure offers high availability, it only have 4.5 of downtime in a year(99.5%) uptime.
+for Digital Ocean:
+	Easy to use, it has a friendly interface and high scalability , drives its adoption amongest most of users.
+for IBM cloud:
+	Flexibility, Speed and Interoperability
+
+-The most pillar differnce between each cloud providers.
+AWS:
+	pros: Reliability, Quality, Professional Support
+	cons: Expensive despite regular lowering of price
+
+GCP:	
+	pros: Relaibility and Affordable
+	cons: Limited Features and Services.
+
+Azure:
+	Pros: Infrastructure, Configuration and Ideal for Big projects.
+	Cons: Unsatisfactory Customer expensive and Technical support.
+
+Digital Ocean:
+	Pros: Easy to use and Affordable
+	cons: Unsatisfactory error addressing and security issues.
+
+IBM Cloud:
+	Pros: Flexibility, Speed and Interoperability 
+	Cons: Complicated , Pricing model and slow.
